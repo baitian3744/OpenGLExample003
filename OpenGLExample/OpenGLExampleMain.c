@@ -28,8 +28,8 @@ void display(void)
 	glColor3f(0,1,0);// glRasterPos2d(0, 5);
 	glClear(GL_COLOR_BUFFER_BIT);
 	*/
-	glBitmap(64, 64, 0.0, 0.0, 0.0, 0.0, check);
-	
+	glBitmap(32, 32, 0.0, 0.0, 0.0, 0.0, check);
+
 	/*
 	GLint i;
 	GLfloat angle;
